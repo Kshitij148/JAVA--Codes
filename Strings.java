@@ -17,6 +17,8 @@ public class Strings {
 
 				System.out.println("My Numbers: "+aNumber+" , "+aDouble);
 
+				System.out.println(hiThere.length());
+
 		}
 }
 
