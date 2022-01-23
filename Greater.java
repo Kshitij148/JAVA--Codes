@@ -21,6 +21,7 @@ public class Greater {
 
 				System.out.println("The greater number is "+b);
 				System.out.println("The program ended");
+				System.out.println("The line to revert staged changes")
 
 			}
 
