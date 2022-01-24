@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Sum {
+public class Subtraction {
 	
 	public static void main(String[] args) {
 			
