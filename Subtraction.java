@@ -12,9 +12,9 @@ public class Subtraction {
 			System.out.println("Enter variable b: ");
 			int b = input.nextInt();
 
-			int sum=a+b;
+			int sum=a-b;
 
-			System.out.printf("The Sum is: "+sum);
+			System.out.printf("The difference is: "+sum);
 
 		}
 }
