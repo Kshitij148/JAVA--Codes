@@ -4,7 +4,7 @@ public class Array {
 			
 			int number=10;
 			//int[] numbers = new int[5];
-			int[] numbers={10,20,25,30,35};
+			int[] numbers={10,20,25,30,35,40,50};
 
 			System.out.println(numbers[0]);  //default value in array is 0
 
